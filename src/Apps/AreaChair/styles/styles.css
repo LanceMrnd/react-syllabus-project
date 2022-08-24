@@ -1,0 +1,26 @@
+
+
+@media(min-width: 758px){
+
+    .login-container {
+
+        width: 40%;
+
+
+    }
+    #Getstared, #email, #password, #lastName, #firstName, #username, #login, #position{
+        height: 55px;
+        border-radius: 30px;
+        
+    }
+
+    .navbar{
+
+        background-color: white;
+    }
+    #signUp{
+        
+        border-radius: 30px;
+    }
+    
+}

@@ -1,0 +1,28 @@
+
+
+@media(min-width: 758px){
+
+    .login-container {
+
+        width: 40%;
+
+
+    }
+      .firstName, .lastName, .position, .email, .password, .confirmpassword, .employeeid{
+        height: 55px;
+        border-radius: 30px;
+        
+    }
+
+    .navbar{
+
+        background-color: white;
+    }
+    .signUp{
+        
+        border-radius: 30px;
+        background-color: #f78a0c;
+        color: white;
+    }
+    
+}

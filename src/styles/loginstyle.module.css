@@ -1,0 +1,30 @@
+
+
+@media(min-width: 758px){
+
+    .login-container {
+
+        width: 40%;
+
+
+    }
+        .password, .email{
+        height: 55px;
+        border-radius: 30px;
+        /* background-color: lightgray; */
+    }
+
+    .navbar{
+
+        background-color: white;
+    }
+    #login{
+        
+        border-radius: 30px;
+        background-color: #f78a0c;
+        height: 55px;
+        color: white;
+        
+    }
+    
+}
